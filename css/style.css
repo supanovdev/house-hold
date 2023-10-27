@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url("../img/1\ \(12\).jpeg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
